@@ -1,0 +1,7 @@
+{
+    "temperature_high": "30",
+    "temperature_low": "15",
+    "humidity_high": "70",
+    "mq2_threshold": "100",
+    "mq135_threshold": "100"
+}
